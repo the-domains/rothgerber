@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#091201'
+    - '#D9D1CF'
+    - '#6A0F1E'
+    - '#5D6631'
+    - '#9F9A63'
+  brandStrength: 0.059536
+  lightness: 0.676316
+  rhythmicContrast: 0.803437
+  saturation: 0.65582
+cta: {}
+layout_spectrum: 0.528716
+name: rothgerber
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.727196
